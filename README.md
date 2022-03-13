@@ -18,7 +18,7 @@ According to [Bitcoin Wiki](https://en.bitcoin.it/wiki/Technical_background_of_v
 So chances are pretty slim, but you just never know.
 
 ## How to use
-1. Download a list of the known BTC addresses with balance in them from here:  http://addresses.loyce.club/soon.html
+1. Download a list of the known BTC addresses with balance in them from here:  http://addresses.loyce.club/
 2. Extract the .tsv file
 3. Drag and drop the .tsv file into BruteBTC.exe
 
